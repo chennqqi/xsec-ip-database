@@ -35,9 +35,9 @@ import (
 
 	"github.com/urfave/cli"
 
-	"xsec-evil-ips/web/routers"
-	"xsec-evil-ips/models"
-	"xsec-evil-ips/logger"
+	"github.com/chennqqi/xsec-ip-database/web/routers"
+	"github.com/chennqqi/xsec-ip-database/models"
+	"github.com/chennqqi/xsec-ip-database/logger"
 )
 
 func RunWeb(ctx *cli.Context) (err error) {

@@ -25,8 +25,8 @@ THE SOFTWARE.
 package feeds
 
 import (
-	"xsec-evil-ips/models"
-	"xsec-evil-ips/util"
+	"github.com/chennqqi/xsec-ip-database/models"
+	"github.com/chennqqi/xsec-ip-database/util"
 
 	"io/ioutil"
 	"strings"

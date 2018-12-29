@@ -29,10 +29,10 @@ import (
 	"github.com/patrickmn/go-cache"
 	"github.com/toolkits/slice"
 
-	"xsec-evil-ips/models"
-	"xsec-evil-ips/logger"
-	"xsec-evil-ips/settings"
-	"xsec-evil-ips/util"
+	"github.com/chennqqi/xsec-ip-database/models"
+	"github.com/chennqqi/xsec-ip-database/logger"
+	"github.com/chennqqi/xsec-ip-database/settings"
+	"github.com/chennqqi/xsec-ip-database/util"
 
 	"strings"
 )

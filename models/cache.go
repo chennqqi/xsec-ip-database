@@ -29,7 +29,7 @@ import (
 	"github.com/urfave/cli"
 	"github.com/toolkits/slice"
 
-	"xsec-evil-ips/logger"
+	"github.com/chennqqi/xsec-ip-database/logger"
 
 	"encoding/gob"
 )

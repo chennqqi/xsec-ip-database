@@ -25,9 +25,9 @@ THE SOFTWARE.
 package feeds
 
 import (
-	"xsec-evil-ips/models"
-	"xsec-evil-ips/logger"
-	"xsec-evil-ips/web"
+	"github.com/chennqqi/xsec-ip-database/models"
+	"github.com/chennqqi/xsec-ip-database/logger"
+	"github.com/chennqqi/xsec-ip-database/web"
 
 	"sync"
 	"time"

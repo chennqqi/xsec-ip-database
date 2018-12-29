@@ -25,7 +25,7 @@ THE SOFTWARE.
 package web
 
 import (
-	"xsec-evil-ips/settings"
+	"github.com/chennqqi/xsec-ip-database/settings"
 )
 
 var (

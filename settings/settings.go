@@ -27,7 +27,7 @@ package settings
 import (
 	"gopkg.in/ini.v1"
 
-	"xsec-evil-ips/logger"
+	"github.com/chennqqi/xsec-ip-database/logger"
 )
 
 var (

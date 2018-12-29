@@ -27,8 +27,8 @@ package cmd
 import (
 	"github.com/urfave/cli"
 
-	"xsec-evil-ips/feeds"
-	"xsec-evil-ips/web"
+	"github.com/chennqqi/xsec-ip-database/feeds"
+	"github.com/chennqqi/xsec-ip-database/web"
 )
 
 var Serve = cli.Command{

@@ -26,7 +26,7 @@ package feeds_test
 
 import (
 	"testing"
-	"xsec-evil-ips/feeds"
+	"github.com/chennqqi/xsec-ip-database/feeds"
 )
 
 func TestFetchFromBruteforceblocker(t *testing.T) {

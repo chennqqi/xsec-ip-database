@@ -30,7 +30,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"xsec-evil-ips/util"
+	"github.com/chennqqi/xsec-ip-database/util"
 )
 
 func TestUpdateIp(t *testing.T) {

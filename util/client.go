@@ -31,8 +31,8 @@ import (
 	"net/http"
 	"time"
 
-	"xsec-evil-ips/settings"
-	"xsec-evil-ips/logger"
+	"github.com/chennqqi/xsec-ip-database/settings"
+	"github.com/chennqqi/xsec-ip-database/logger"
 )
 
 func GetPage(url string) (io.Reader, error) {

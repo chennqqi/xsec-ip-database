@@ -25,8 +25,8 @@ THE SOFTWARE.
 package models
 
 import (
-	"xsec-evil-ips/settings"
-	"xsec-evil-ips/logger"
+	"github.com/chennqqi/xsec-ip-database/settings"
+	"github.com/chennqqi/xsec-ip-database/logger"
 
 	"github.com/go-xorm/xorm"
 	"github.com/go-xorm/core"

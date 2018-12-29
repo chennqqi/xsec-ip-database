@@ -27,7 +27,7 @@ package main
 import (
 	"github.com/urfave/cli"
 
-	"xsec-evil-ips/cmd"
+	"github.com/chennqqi/xsec-ip-database/cmd"
 
 	"os"
 	"runtime"
